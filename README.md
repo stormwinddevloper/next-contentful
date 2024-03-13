@@ -1,5 +1,4 @@
-This is the Next.js starter site (and course files) for the Next.js & Contentful tutorial by the Net Ninja.
-
+This is the Next.js starter site (and course files) for the Next.js & Contentful course.
 ## Getting Started
 
 To use the starter project, run the following in a terminal:
